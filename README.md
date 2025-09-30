@@ -51,5 +51,5 @@ Follow these steps to set up and run the project on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-cd YOUR_REPOSITORY_NAME
+git clone [https://github.com/Utkarsh0723/Scalar_NPS_DASHBOARD/tree/main](https://github.com/Utkarsh0723/Scalar_NPS_DASHBOARD/tree/main)
+cd Scalar_NPS_Dashboard
